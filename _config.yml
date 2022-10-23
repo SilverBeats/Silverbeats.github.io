@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "WeiJie Li"
 title_separator          : "-"
 name                     : &name "WeiJie Li"
@@ -18,22 +17,8 @@ repository               : "silverbeats/silverbeats.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
-=======
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
+read_more                : "true" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -95,7 +80,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "WeiJie Li"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
@@ -104,16 +88,6 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "mailto:silverbeats@qq.com"
-=======
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -122,32 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-<<<<<<< HEAD
   github           : "silverbeats"
-=======
-  github           : "academicpages"
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-<<<<<<< HEAD
   orcid            : 
-=======
-  orcid            : "http://orcid.org/yourorcidurl"
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-<<<<<<< HEAD
   twitter          : 
-=======
-  twitter          : "replacethistwitterhandle"
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
   vine             :
   weibo            :
   xing             :
