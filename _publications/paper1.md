@@ -10,7 +10,7 @@ paperurl: 'http://silverbeats.github.io/files/paper1.pdf'
 citation: ''
 ---
 
-```
+```tex
 @article{li2024response,
   author       = {Weijie Li and
                   Yong Yang and
