@@ -2,12 +2,9 @@
 title: "Exploring Large Language Models Text Style Transfer Capabilities"
 collection: publications
 permalink: /publication/2024-07-4-paper-llmtst-number-2
-excerpt: ''
 date: 2024-02-13
 venue: 'ECAI-2024 (Accepted)'
-slidesurl: ''
 paperurl: 'http://silverbeats.github.io/files/paper2.pdf'
-citation: ''
 ---
 
 ```tex
