@@ -10,7 +10,7 @@ paperurl: 'http://silverbeats.github.io/files/paper2.pdf'
 citation: ''
 ---
 
-```
+```tex
 @InProceedings{li2024exploring,
   author       = {Weijie Li and
                   Xiaochao Fan and

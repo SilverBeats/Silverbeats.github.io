@@ -19,7 +19,7 @@ citation: ''
                   Yufeng Diao},
   title        = {A Response Generation Framework Based on Empathy Factors, Common Sense,
                   and Persona},
-  journal      = {{IEEE} Access},
+  journal      = {IEEE Access},
   volume       = {12},
   pages        = {26819--26829},
   year         = {2024},
