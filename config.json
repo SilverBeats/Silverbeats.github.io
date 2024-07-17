@@ -1,0 +1,30 @@
+{
+    "websiteTitle": "Academic Page",
+    "hasLogo": false,
+    "logoInfo": {
+        "path": null,
+        "width": null,
+        "height": null
+    },
+    "userInfo": {
+        "firstName": "Weijie",
+        "lastName": "Li",
+        "zhName": "李炜杰",
+        "photo": "profile.png",
+        "address": null,
+        "tel": null,
+        "email": "silverbeats@qq.com",
+        "wechat": null,
+        "qq": null,
+        "facebook": null,
+        "twitter": null,
+        "github": "https://github.com/silverbeats",
+        "orcid": "https://orcid.org/0009-0000-6734-7242",
+        "dblp": "https://dblp.org/pid/59/10083.html"
+    },
+    "navInfo": {
+        "home": "/",
+        "publication": "/publication",
+	"cv": "/cv"
+    }
+}

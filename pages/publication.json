@@ -1,0 +1,49 @@
+[
+    {
+        "title": "LI W, YANG Y, TUERXUN P, et al. A response generation framework based on empathy factors, common sense, and persona[J/OL]. IEEE Access, 2024, 12: 26819-26829.",
+        "authors": [
+            "Weijie Li",
+            "Yong Yang",
+            "Palidan Tuerxun",
+            "Xiaochao Fan",
+            "Yufeng Diao"
+        ],
+        "bookTitle": "IEEE Access",
+        "year": 2024,
+        "authorType": [
+            1
+        ],
+        "paperType": "journal",
+        "addition": {
+            "video": null,
+            "bib": "paper1.bib",
+            "blog": "paper1.md",
+            "paper": "paper1.pdf"
+        }
+    },
+    {
+        "title": "Exploring Large Language Models Text Style Transfer Capabilities",
+        "authors": [
+            "Weijie Li",
+            "Zhentao Gu",
+            "Xiaochao Fan",
+            "Wenjun Deng",
+            "Yong Yang",
+            "Xinyuan Zhao",
+            "Yufeng Diao",
+            "Yang Liang"
+        ],
+        "bookTitle": "ECAI",
+        "year": 2024,
+        "authorType": [
+            1
+        ],
+        "paperType": "conference",
+        "addition": {
+            "video": null,
+            "bib": null,
+            "blog": null,
+            "paper": null
+        }
+    }
+]
