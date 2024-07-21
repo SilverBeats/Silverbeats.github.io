@@ -15,9 +15,9 @@
         "paperType": "journal",
         "addition": {
             "video": null,
-            "bib": "paper1.bib",
-            "blog": "paper1.md",
-            "paper": "paper1.pdf"
+            "bib": "paper1",
+            "blog": null,
+            "paper": "paper1"
         }
     },
     {

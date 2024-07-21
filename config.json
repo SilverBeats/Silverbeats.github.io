@@ -1,5 +1,6 @@
 {
     "websiteTitle": "Academic Page",
+    "adoptSearch": true,
     "hasLogo": false,
     "logoInfo": {
         "path": null,

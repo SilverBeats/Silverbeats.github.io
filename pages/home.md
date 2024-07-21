@@ -1,1 +1,1 @@
-Wait to write
+My name is Li Weijie, and I am currently pursuing a Master's degree in Software Engineering at the School of Software, Xinjiang University. My research focus lies within the realm of Natural Language Processing (NLP), with specific interests in dialogue generation, common-sense reasoning, and text style transfer. In my personal life, I enjoy watching anime as a form of relaxation. Additionally, I often challenge myself by conceptualizing and developing small projects to meet various needs that arise in my day-to-day activities.
