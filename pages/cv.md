@@ -1,5 +1,3 @@
-[TOC]
-
 # Education
 
 - M.S. in Software Engineering, Xinjiang University, second year
