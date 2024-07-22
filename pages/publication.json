@@ -12,12 +12,13 @@
         "authorType": [
             1
         ],
-        "paperType": "journal",
+        "paperType": "Journal",
         "addition": {
             "video": null,
             "bib": "paper1",
             "blog": null,
-            "paper": "paper1"
+            "paper": "paper1",
+            "repo": "https://github.com/SilverBeats/EFCP"
         }
     },
     {
@@ -36,12 +37,13 @@
         "authorType": [
             1
         ],
-        "paperType": "conference",
+        "paperType": "Conference",
         "addition": {
             "video": null,
             "bib": null,
             "blog": null,
-            "paper": null
+            "paper": null,
+            "repo": "https://github.com/SilverBeats/llm-tst-code"
         }
     }
 ]
