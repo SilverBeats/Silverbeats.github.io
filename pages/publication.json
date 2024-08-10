@@ -8,16 +8,16 @@
             "Xiaochao Fan",
             "Yufeng Diao"
         ],
-        "year": 2024,
+        "year": "2024.01",
         "authorType": [
             1
         ],
         "paperType": "Journal",
         "addition": {
             "video": null,
-            "bib": "paper1",
+            "bib": "efcp",
             "blog": null,
-            "paper": "paper1",
+            "paper": "efcp",
             "repo": "https://github.com/SilverBeats/EFCP"
         }
     },
@@ -33,7 +33,7 @@
             "Yufeng Diao",
             "Yang Liang"
         ],
-        "year": 2024,
+        "year": "2024.07",
         "authorType": [
             1
         ],
@@ -42,8 +42,32 @@
             "video": null,
             "bib": null,
             "blog": null,
-            "paper": null,
+            "paper": "llm_tst",
             "repo": "https://github.com/SilverBeats/llm-tst-code"
+        }
+    },
+    {
+        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning （Accepted by NLPCC 2024）",
+        "authors": [
+            "Yong Yang",
+            "Weijie Li",
+            "Xiaochao Fan",
+            "Wenjun Deng",
+            "Jiapeng Liu",
+            "Yufeng Diao",
+            "Palidan Tuerxun"
+        ],
+        "year": "2024.08",
+        "authorType": [
+            2
+        ],
+        "paperType": "Conference",
+        "addition": {
+            "video": null,
+            "bib": null,
+            "blog": null,
+            "paper": "cpcur",
+            "repo": "https://github.com/SilverBeats/CPCUR"
         }
     }
 ]
