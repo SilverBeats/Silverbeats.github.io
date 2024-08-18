@@ -42,7 +42,7 @@
             "video": null,
             "bib": null,
             "blog": null,
-            "paper": "llm_tst",
+            "paper": null,
             "repo": "https://github.com/SilverBeats/llm-tst-code"
         }
     },
@@ -66,7 +66,7 @@
             "video": null,
             "bib": null,
             "blog": null,
-            "paper": "cpcur",
+            "paper": null,
             "repo": "https://github.com/SilverBeats/CPCUR"
         }
     }
