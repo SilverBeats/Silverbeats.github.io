@@ -22,7 +22,7 @@
         }
     },
     {
-        "title": "Exploring Large Language Models Text Style Transfer Capabilities （Accepted by ECAI 2024）",
+        "title": "Exploring Large Language Models Text Style Transfer Capabilities （Accepted by ECAI 2024）(oral)",
         "authors": [
             "Weijie Li",
             "Zhentao Gu",
@@ -31,7 +31,7 @@
             "Yong Yang",
             "Xinyuan Zhao",
             "Yufeng Diao",
-            "Yang Liang"
+            "Liang Yang"
         ],
         "year": "2024.07",
         "authorType": [
@@ -47,7 +47,7 @@
         }
     },
     {
-        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning （Accepted by NLPCC 2024）",
+        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning （Accepted by NLPCC 2024）(oral + poster)",
         "authors": [
             "Yong Yang",
             "Weijie Li",
@@ -68,6 +68,28 @@
             "blog": null,
             "paper": null,
             "repo": "https://github.com/SilverBeats/CPCUR"
+        }
+    },
+    {
+        "title": "",
+        "authors": [
+            "Jiapeng Liu",
+            "Weijie Li",
+            "Wenjun Deng",
+            "Xiaochao Fan",
+            "Lang Yang"
+        ],
+        "year": "2024.09",
+        "authorType": [
+            2
+        ],
+        "paperType": "Conference",
+        "addition": {
+            "video": null,
+            "bib": null,
+            "blog": null,
+            "paper": null,
+            "repo": null
         }
     }
 ]
