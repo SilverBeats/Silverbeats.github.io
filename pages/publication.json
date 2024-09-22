@@ -1,17 +1,16 @@
 [
     {
-        "title": "LI W, YANG Y, TUERXUN P, et al. A response generation framework based on empathy factors, common sense, and persona[J/OL]. IEEE Access, 2024, 12: 26819-26829.",
+        "title": "A response generation framework based on empathy factors, common sense, and persona",
         "authors": [
             "Weijie Li",
-            "Yong Yang",
+            "Yong Yang#",
             "Palidan Tuerxun",
-            "Xiaochao Fan",
+            "Xiaochao Fan*",
             "Yufeng Diao"
         ],
         "year": "2024.01",
-        "authorType": [
-            1
-        ],
+        "bookTitle": "IEEE Access",
+        "authorPosition": 1,
         "paperType": "Journal",
         "addition": {
             "video": null,
@@ -22,21 +21,20 @@
         }
     },
     {
-        "title": "Exploring Large Language Models Text Style Transfer Capabilities （Accepted by ECAI 2024）(oral)",
+        "title": "Exploring Large Language Models Text Style Transfer Capabilities (oral)",
         "authors": [
             "Weijie Li",
             "Zhentao Gu",
-            "Xiaochao Fan",
+            "Xiaochao Fan*",
             "Wenjun Deng",
-            "Yong Yang",
+            "Yong Yang#",
             "Xinyuan Zhao",
             "Yufeng Diao",
             "Liang Yang"
         ],
+        "bookTitle": "ECAI",
         "year": "2024.07",
-        "authorType": [
-            1
-        ],
+        "authorPosition": 1,
         "paperType": "Conference",
         "addition": {
             "video": null,
@@ -47,20 +45,19 @@
         }
     },
     {
-        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning （Accepted by NLPCC 2024）(oral + poster)",
+        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning (oral + poster)",
         "authors": [
-            "Yong Yang",
+            "Yong Yang#",
             "Weijie Li",
-            "Xiaochao Fan",
+            "Xiaochao Fan*",
             "Wenjun Deng",
             "Jiapeng Liu",
             "Yufeng Diao",
             "Palidan Tuerxun"
         ],
+        "bookTitle": "NLPCC",
         "year": "2024.08",
-        "authorType": [
-            2
-        ],
+        "authorPosition": 2,
         "paperType": "Conference",
         "addition": {
             "video": null,
@@ -71,18 +68,19 @@
         }
     },
     {
-        "title": "Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases (EMNLP Findings 2024)",
+        "title": "Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases",
         "authors": [
             "Jiapeng Liu",
             "Weijie Li",
             "Wenjun Deng",
-            "Xiaochao Fan",
-            "Lang Yang"
+            "Xiaochao Fan*",
+            "Lang Yang",
+            "Yong Li",
+            "Yufeng Diao"
         ],
+        "bookTitle": "EMNLP Findings",
         "year": "2024.09",
-        "authorType": [
-            2
-        ],
+        "authorPosition": 2,
         "paperType": "Conference",
         "addition": {
             "video": null,
