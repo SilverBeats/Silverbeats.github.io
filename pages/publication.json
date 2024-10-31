@@ -8,7 +8,7 @@
             "Xiaochao Fan",
             "Yufeng Diao"
         ],
-        "year": "2024.02",
+        "year": "2024",
         "bookTitle": "IEEE Access",
         "authorPosition": 1,
         "paperType": "Journal",
@@ -33,7 +33,7 @@
             "Liang Yang"
         ],
         "bookTitle": "ECAI-2024",
-        "year": "2024.07",
+        "year": "2024",
         "authorPosition": 1,
         "paperType": "Conference",
         "addition": {
@@ -55,8 +55,8 @@
             "Yufeng Diao",
             "Palidan Tuerxun"
         ],
-        "bookTitle": "NLPCC 2024",
-        "year": "2024.08",
+        "bookTitle": "NLPCC",
+        "year": "2024",
         "authorPosition": 2,
         "paperType": "Conference",
         "addition": {
@@ -79,7 +79,7 @@
             "Yufeng Diao"
         ],
         "bookTitle": "EMNLP Findings",
-        "year": "2024.09",
+        "year": "2024",
         "authorPosition": 2,
         "paperType": "Conference",
         "addition": {
