@@ -32,7 +32,7 @@
             "Yufeng Diao",
             "Liang Yang"
         ],
-        "bookTitle": "ECAI",
+        "bookTitle": "ECAI-2024",
         "year": "2024.07",
         "authorPosition": 1,
         "paperType": "Conference",
@@ -45,7 +45,7 @@
         }
     },
     {
-        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning (oral + poster)",
+        "title": "Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning (Oral + Poster)",
         "authors": [
             "Yong Yang#",
             "Weijie Li",
@@ -55,15 +55,15 @@
             "Yufeng Diao",
             "Palidan Tuerxun"
         ],
-        "bookTitle": "NLPCC",
+        "bookTitle": "NLPCC 2024",
         "year": "2024.08",
         "authorPosition": 2,
         "paperType": "Conference",
         "addition": {
             "video": null,
-            "bib": null,
+            "bib": "cpcur",
             "blog": null,
-            "paper": null,
+            "paper": "cpcur",
             "repo": "https://github.com/SilverBeats/CPCUR"
         }
     },
