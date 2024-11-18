@@ -84,9 +84,9 @@
         "paperType": "Conference",
         "addition": {
             "video": null,
-            "bib": null,
+            "bib": "bsadsi",
             "blog": null,
-            "paper": null,
+            "paper": "bsadsi",
             "repo": null
         }
     }
