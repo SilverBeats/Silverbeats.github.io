@@ -1,5 +1,5 @@
 {
-    "websiteTitle": "Academic Page",
+    "websiteTitle": "Weijie Li Academic Page",
     "adoptSearch": true,
     "hasLogo": false,
     "logoInfo": {
@@ -23,7 +23,7 @@
         "orcid": "https://orcid.org/0009-0000-6734-7242",
         "dblp": "https://dblp.org/pid/59/10083.html"
     },
-    "authorMarkInfo": "*: Corresponding Author; #: Supervisor",
+    "authorMarkInfo": "*: Corresponding Author; #: Advisor",
     "navInfo": {
         "home": "/",
         "publications": "/publications",
