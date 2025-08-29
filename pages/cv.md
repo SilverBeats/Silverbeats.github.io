@@ -6,7 +6,7 @@ Soochow University, Suzhou, China
 
 2025 – Present
 
-Advisor: [Prof. Guodong Zhou](https://web.suda.edu.cn/gdzhou), and co-advisor [Assoc. Prof. Zhongqing Wang](https://wangzqsuda.github.io)
+Advisor: [Prof. Yu Hong](https://scst.suda.edu.cn/0c/f9/c11250a527609/page.htm), and co-advisor [Assoc. Prof. Zhongqing Wang](https://wangzqsuda.github.io)
 
 **M.Eng. in Software Engineering**
 
