@@ -92,9 +92,11 @@
     },
     {
 	"title": "PCoKG: Personality-aware Commonsense Reasoning with Debate",
-	"authors": ["Weijie Li", "Zhongqing Wang", "Guodong Zhou"],
-	"bookTitle": "AAAI",
+	"authors": ["Weijie Li", "Zhongqing Wang#*", "Guodong Zhou"],
+	"bookTitle": "AAAI 2026",
 	"paperType": "Conference",
+	"authorPosition": 1,
+	"year": "2025.11.8",
 	"addition": {
 	    "video": null,
 	    "bib": null,
