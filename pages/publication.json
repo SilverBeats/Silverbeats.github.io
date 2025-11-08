@@ -89,5 +89,18 @@
             "paper": "bsadsi",
             "repo": null
         }
+    },
+    {
+	"title": "PCoKG: Personality-aware Commonsense Reasoning with Debate",
+	"authors": ["Weijie Li", "Zhongqing Wang", "Guodong Zhou"],
+	"bookTitle": "AAAI",
+	"paperType": "Conference",
+	"addition": {
+	    "video": null,
+	    "bib": null,
+	    "blog": null,
+	    "paper": null,
+	    "repo": "https://github.com/SilverBeats/pcs_v2"
+	}
     }
 ]
