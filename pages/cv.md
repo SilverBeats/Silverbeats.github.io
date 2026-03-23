@@ -1,4 +1,4 @@
-# Education
+> 🎓 Education
 
 **Ph.D. in Software Engineering**
 
@@ -24,17 +24,23 @@ China University of Mining and Technology, Xuzhou, China
 
 Thesis Advisor: [Lecturer Jinhui Luo](http://yjsxt.cumt.edu.cn/Gwork/Teacher/TeacherInfo.aspx?EID=LaosoqV95obmnlYKxJuIB11yGhLzQzmZ)
 
-# Research Publications
+---
 
-[1] ***LI W***, GU Z, FAN X, et al. Exploring Large Language Models Text Style Transfer Capabilities[C]//Frontiers in Artificial Intelligence and Applications: ECAI 2024, 19-24 October 2024, Santiago de Compostela, Spain: IOS Press, 2024: 3203-3210. *(Oral Presentation)*
+> 📖 Research Publications
 
-[2] YANG Y, ***LI W***, FAN X, et al. Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum Learning[C]//CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024: 213-225. *(Oral + Poster Presentation)*
+[1] ***Li, W***., Wang, Z., & Zhou, G. PCoKG: Personality-aware Commonsense Reasoning with Debate. Proceedings of the AAAI Conference on Artificial Intelligence, 40(23), 19251-19258. ***(Poster)***
 
-[3] LIU J, ***LI W***, FAN X, et al. Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases[C]//Findings of the Association for Computational Linguistics: EMNLP 2024. Miami, Florida, USA: Association for Computational Linguistics, 2024: 5957-5966.
+[2] ***LI W***, GU Z, FAN X, et al. Exploring Large Language Models Text Style Transfer Capabilities[C]//Frontiers in Artificial Intelligence and Applications: ECAI 2024, 19-24 October 2024, Santiago de Compostela, Spain: IOS Press, 2024: 3203-3210. *(Oral Presentation)*
 
-[4] ***Li W***, Yang Y, Tuerxun P, et al. A Response Generation Framework Based on Empathy Factors, Common Sense, and Persona[J]. IEEE Access, 2024, 12: 26819-26829.
+[3] YANG Y, ***LI W***, FAN X, et al. Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum Learning[C]//CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024: 213-225. *(Oral + Poster Presentation)*
 
-# Engaged Research Projects
+[4] LIU J, ***LI W***, FAN X, et al. Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases[C]//Findings of the Association for Computational Linguistics: EMNLP 2024. Miami, Florida, USA: Association for Computational Linguistics, 2024: 5957-5966.
+
+[5] ***Li W***, Yang Y, Tuerxun P, et al. A Response Generation Framework Based on Empathy Factors, Common Sense, and Persona[J]. IEEE Access, 2024, 12: 26819-26829.
+
+---
+
+> 🧑🏻‍💻 Engaged Research Projects
 
 **Study on Key Technologies for Chinese Irony Recognition Based on Multimodal Data (Xinjiang Natural Science Foundation, 2022D01A99)**
 
@@ -44,14 +50,25 @@ I contributed to the creation of a dataset focused on Chinese satirical expressi
 
 I was deeply involved in building a multimodal humor and sarcasm dataset in Chinese, encompassing data collection, data cleaning, establishment of annotation rules, development of annotation tools, replication of baseline models, and paper writing.
 
-# Conference Participation
-- The 27th European Conference on Artificial Intelligence (ECAI 2024) – Oral presentation
-- CIPS Frontier Technology Seminar: Large Model Series (CIPS ATT 2024)
-- The 2nd Conference on Natural Language Generation and Intelligent Writing (NLGIW 2023)
-- The 3rd Chinese Conference on Affective Computing (CCAC 2023)
+---
 
-# Honors
+> ✈️ Conference Participation
 
+
+
+
+
+- The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore 🇸🇬
+- The 27th European Conference on Artificial Intelligence (ECAI 2024), Santiago de Compostela, Spain 🇪🇸
+- CIPS Frontier Technology Seminar: Large Model Series (CIPS ATT 2024), Urumqi, Xinjiang, China 🇨🇳
+- The 2nd Conference on Natural Language Generation and Intelligent Writing (NLGIW 2023), Urumqi, Xinjiang, China 🇨🇳
+- The 3rd Chinese Conference on Affective Computing (CCAC 2023), Xi'an, Shanxi Province, China 🇨🇳
+
+---
+
+> 🏆 Honors
+
+- 2025, Suzhou University Academic Scholarship
 - 2023, Xinjiang Uygur Autonomous Region Academic Scholarship
 - 2023, First Prize in the Python Graduate Category at the Xinjiang Provincial Division of the Lanqiao Cup Competition
 - 2020.06, Outstanding undergraduate thesis, China University of Mining and Technology
