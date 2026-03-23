@@ -54,10 +54,6 @@ I was deeply involved in building a multimodal humor and sarcasm dataset in Chin
 
 > ✈️ Conference Participation
 
-
-
-
-
 - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore 🇸🇬
 - The 27th European Conference on Artificial Intelligence (ECAI 2024), Santiago de Compostela, Spain 🇪🇸
 - CIPS Frontier Technology Seminar: Large Model Series (CIPS ATT 2024), Urumqi, Xinjiang, China 🇨🇳
