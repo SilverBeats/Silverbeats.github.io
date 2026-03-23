@@ -30,9 +30,9 @@ Thesis Advisor: [Lecturer Jinhui Luo](http://yjsxt.cumt.edu.cn/Gwork/Teacher/Tea
 
 [1] ***Li, W***., Wang, Z., & Zhou, G. PCoKG: Personality-aware Commonsense Reasoning with Debate. Proceedings of the AAAI Conference on Artificial Intelligence, 40(23), 19251-19258. ***(Poster)***
 
-[2] ***LI W***, GU Z, FAN X, et al. Exploring Large Language Models Text Style Transfer Capabilities[C]//Frontiers in Artificial Intelligence and Applications: ECAI 2024, 19-24 October 2024, Santiago de Compostela, Spain: IOS Press, 2024: 3203-3210. *(Oral Presentation)*
+[2] ***LI W***, GU Z, FAN X, et al. Exploring Large Language Models Text Style Transfer Capabilities[C]//Frontiers in Artificial Intelligence and Applications: ECAI 2024, 19-24 October 2024, Santiago de Compostela, Spain: IOS Press, 2024: 3203-3210. ***(Oral Presentation)***
 
-[3] YANG Y, ***LI W***, FAN X, et al. Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum Learning[C]//CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024: 213-225. *(Oral + Poster Presentation)*
+[3] YANG Y, ***LI W***, FAN X, et al. Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum Learning[C]//CCF International Conference on Natural Language Processing and Chinese Computing. Singapore: Springer Nature Singapore, 2024: 213-225. ***(Oral + Poster Presentation)***
 
 [4] LIU J, ***LI W***, FAN X, et al. Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases[C]//Findings of the Association for Computational Linguistics: EMNLP 2024. Miami, Florida, USA: Association for Computational Linguistics, 2024: 5957-5966.
 
