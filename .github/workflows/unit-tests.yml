@@ -11,7 +11,7 @@ on:
       - "Gemfile.lock"
       - "_config.yml"
       - "_data/**"
-      - "_pages/**"
+      - "_pages/*.md"
       - "_posts/**"
       - "_projects/**"
       - "assets/**"
@@ -19,6 +19,15 @@ on:
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/unit-tests.yml"
+    paths-ignore:
+      - "_posts/**"
+      - "_projects/**"
+      - "_pages/**"
+      - "_news/**"
+      - "_books/**"
+      - "_teachings/**"
+      - "_bibliography/**"
+      - "assets/**"
   pull_request:
     branches:
       - master
@@ -29,7 +38,7 @@ on:
       - "Gemfile.lock"
       - "_config.yml"
       - "_data/**"
-      - "_pages/**"
+      - "_pages/*.md"
       - "_posts/**"
       - "_projects/**"
       - "assets/**"
@@ -37,6 +46,17 @@ on:
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/unit-tests.yml"
+    paths-ignore:
+      - "_posts/**"
+      - "_projects/**"
+      - "_pages/about.md"
+      - "_pages/cv.md"
+      - "_news/**"
+      - "_books/**"
+      - "_teachings/**"
+      - "_bibliography/**"
+      - "assets/img/**"
+      - "assets/pdf/**"
 
 jobs:
   comments-integration-tests:
