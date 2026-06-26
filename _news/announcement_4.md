@@ -4,5 +4,4 @@ date: 2025-11-08
 inline: true
 related_post: false
 ---
-
-🎊 One Paper got accepted to AAAI2026.
+🎊 One Paper got accepted to [AAAI2026](https://aaai.org/conference/aaai/aaai-26/).

@@ -5,4 +5,4 @@ inline: true
 related_post: false
 ---
 
-🧑‍⚖️ Invited as a Reviewer for NLPCC 2026.
+🧑‍⚖️ Invited as a Reviewer for [NLPCC2026](http://tcci.ccf.org.cn/conference/2026/).

@@ -5,4 +5,4 @@ inline: true
 related_post: false
 ---
 
-🧑‍⚖️ Invited as a Reviewer for IJCNN 2027.
+🧑‍⚖️ Invited as a Reviewer for [IJCNN2027](https://ijcnn.org/2027).
