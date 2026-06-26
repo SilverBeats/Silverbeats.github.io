@@ -1353,13 +1353,6 @@ figure.cover figcaption.finished {
     background-color: #62c462
 }
 
-figure.cover figcaption.watching {
-    font-family: monospace;
-    color: #23212d;
-    text-transform: uppercase;
-    background-color: #f89406
-}
-
 .calendar-toggle-btn {
     align-items: center;
     background-color: rgba(0,0,0,0);
