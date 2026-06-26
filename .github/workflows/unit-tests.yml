@@ -19,15 +19,15 @@ on:
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/unit-tests.yml"
-    paths-ignore:
-      - "_posts/**"
-      - "_projects/**"
-      - "_pages/**"
-      - "_news/**"
-      - "_books/**"
-      - "_teachings/**"
-      - "_bibliography/**"
-      - "assets/**"
+    #paths-ignore:
+    #  - "_posts/**"
+    #  - "_projects/**"
+    #  - "_pages/**"
+    #  - "_news/**"
+    #  - "_books/**"
+    #  - "_teachings/**"
+    #  - "_bibliography/**"
+    #  - "assets/**"
   pull_request:
     branches:
       - master

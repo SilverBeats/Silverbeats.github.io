@@ -9,15 +9,15 @@ on:
     branches:
       - master
       - main
-    paths-ignore:
-      - "_posts/**"
-      - "_projects/**"
-      - "_pages/**"
-      - "_news/**"
-      - "_books/**"
-      - "_teachings/**"
-      - "_bibliography/**"
-      - "assets/**"
+    #paths-ignore:
+    #  - "_posts/**"
+    #  - "_projects/**"
+    #  - "_pages/**"
+    #  - "_news/**"
+    #  - "_books/**"
+    #  - "_teachings/**"
+    #  - "_bibliography/**"
+    #  - "assets/**"
 
 jobs:
   check:
