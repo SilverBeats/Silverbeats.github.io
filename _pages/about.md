@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -21,10 +21,8 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
-
-
 🧑🏻‍💻 My name is Weijie Li, a Ph.D. candidate in Software Engineering at Soochow University in Suzhou, China, where I have been pursuing my doctoral degree since 2025 under the supervision of [Prof. Yu Hong](https://scst.suda.edu.cn/0c/f9/c11250a527609/page.htm) and co-supervision of [Prof. Zhongqing Wang](https://wangzqsuda.github.io)
 
 🤔 My current research revolves around common-sense reasoning, dialogue generation, and role-playing, with a particular interest in enabling machines to understand and respond to nuanced human communication in more natural and contextually aware ways.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-08
+date: 2024-07-04
 inline: true
 related_post: false
 ---
 
-🎊 One Paper got accepted to AAAI2026.
+🎊 One Paper got accepted to [ECAI2024](https://www.ecai2024.eu/).
