@@ -140,13 +140,13 @@ cv:
         releaseDate: 2024-10-18
         url: https://doi.org/10.3233/FAIA240865
 
-      - title:
-          authors:
-            - Yukang Bai
-            - Yanmin Chen
-            - Xiaochao Fan
-            - Ruijun Sun
-            - Weijie Li
+      - title: "Numerical Reasoning Method for Graph Neural Networks and Numerically Induced Regularization"
+        authors:
+          - Yukang Bai
+          - Yanmin Chen
+          - Xiaochao Fan
+          - Ruijun Sun
+          - Weijie Li
         publisher: CAAI Transactions on Intelligent Systems
         releaseDate: 2024-08-28
         url: https://doi.org/10.11992/tis.202308045
