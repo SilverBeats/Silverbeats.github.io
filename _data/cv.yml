@@ -125,7 +125,7 @@ cv:
         publisher: NLPCC
         releaseDate: 2024-11-01
         url: https://doi.org/10.1007/978-981-97-9434-8_17
-      
+
       - title: "Exploring Large Language Models Text Style Transfer Capabilities"
         authors:
           - Weijie Li
@@ -139,7 +139,18 @@ cv:
         publisher: ECAI
         releaseDate: 2024-10-18
         url: https://doi.org/10.3233/FAIA240865
-      
+
+      - title:
+          authors:
+            - Yukang Bai
+            - Yanmin Chen
+            - Xiaochao Fan
+            - Ruijun Sun
+            - Weijie Li
+        publisher: CAAI Transactions on Intelligent Systems
+        releaseDate: 2024-08-28
+        url: https://doi.org/10.11992/tis.202308045
+
       - title: "A Response Generation Framework Based on Empathy Factors, Common Sense, and Persona"
         authors:
           - Weijie Li
