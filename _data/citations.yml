@@ -1,0 +1,32 @@
+metadata:
+  last_updated: '2026-07-06'
+papers:
+  AY8AOzMAAAAJ:d1gkVwhDpl0C:
+    citations: 13
+    title: Identifying hate speech through syntax dependency graph convolution and sentiment knowledge transfer
+    year: 2024
+  AY8AOzMAAAAJ:u5HHmVD_uO8C:
+    citations: 5
+    title: A response generation framework based on empathy factors, common sense, and persona
+    year: 2024 
+  
+  AY8AOzMAAAAJ:9yKSN-GCB0IC:
+    citations: 1
+    title: Chinese Personalized Commonsense Understanding and Reasoning Based on Curriculum-Learning
+    year: 2024
+
+  AY8AOzMAAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: Giving Control Back to Models: Enabling Offensive Language Detection Models to Autonomously Identify and Mitigate Biases
+    year: 2024
+  
+  AY8AOzMAAAAJ:2osOgNQ5qMEC:
+    citations: 1
+    title: Exploring Large Language Models Text Style Transfer Capabilities
+    year: 2024
+  
+  AY8AOzMAAAAJ:qjMakFHDy7sC:
+    citations: 1
+    year: 2026
+    title: PCoKG: Personality-aware Commonsense Reasoning with Debate
+
