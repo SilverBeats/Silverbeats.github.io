@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * Corresponding author; # Advisor
+description: * Corresponding author;\# Advisor
 nav: true
 nav_order: 2
 ---
